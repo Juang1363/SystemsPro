@@ -1,9 +1,9 @@
 # 🧠 SystemsPro: Juan's Systems Programming Gauntlet
 
-Welcome to the **SystemsPro** repo – a chaotic good mix of C, Python, and a splash of assembly code forged through quests in systems programming. If you're into sockets, threading, signals, file I/O, and experimenting with system calls like you're gearing up for a boss fight, this is the dungeon for you.
+Welcome to the **SystemsPro** repo – a chaotic good mix of C, Python, and a splash of assembly code forged through quests in systems programming. If you're into sockets, threading, signals, file I/O, and experimenting with system calls like you're gearing up for a boss fight, this is the dungeon for you. Think of this repo as my personal side quest log from a semester-long campaign in Systems Programming. No cheat codes, just trial, error, and a lot of `gcc`.
 
-> Think of this repo as my personal side quest log from a semester-long campaign in Systems Programming. No cheat codes, just trial, error, and a lot of `gcc`.
-📜 Lore (aka Author)
+---
+## 📜 Lore (aka Author)
 Crafted by Juan Gonzalez, embedded systems programmer in training, HKN/IEEE Fratboy, and former Splatoon champ. This repo was part of my systems training arc—if you find a bug, it was probably the mini-boss I missed.
 
 ---
