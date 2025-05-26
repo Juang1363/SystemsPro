@@ -5,6 +5,7 @@ Welcome to the **SystemsPro** repo – a chaotic good mix of C, Python, and a sp
 > Think of this repo as my personal side quest log from a semester-long campaign in Systems Programming. No cheat codes, just trial, error, and a lot of `gcc`.
 📜 Lore (aka Author)
 Crafted by Juan Gonzalez, embedded systems programmer in training, HKN/IEEE Fratboy, and former Splatoon champ. This repo was part of my systems training arc—if you find a bug, it was probably the mini-boss I missed.
+
 ---
 
 ## 🎮 Table of Contents
@@ -34,15 +35,21 @@ No fancy gear needed. Just:
 Build example:
 ```bash
 gcc -o server server.c
-gcc -o client client.c
+gcc -o client client.c 
 ./server &
 ./client
-🧩 Tips for Exploration
-Feeling stuck? Try strace or gdb—they're like the "Scan" spell from RPGs. Know your enemy (bugs).
+```
+## 🧩 Tips for Exploration
+Feeling stuck? Try `strace` or `gdb`—they're like the "Scan" spell from RPGs. Know your enemy (bugs).
 
 Mix and match the Python and C socket files for some cross-realm networking.
 
-The signal.c file is surprisingly fun to tinker with—interrupt yourself and see how your program reacts
-If you’ve read this far, you either really like systems programming... or just love a good reference. Either way, clone the repo and git gud
-🕹️ GG,
+The `signal.c` file is surprisingly fun to tinker with—interrupt yourself and see how your program reacts.
+
+---
+## 🧠 Final Words
+
+If you’ve read this far, you either really like systems programming... or just love a good reference. Either way, clone the repo and **git gud**.
+
+🕹️ GGS,  
 Juan
